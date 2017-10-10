@@ -1,2 +1,4 @@
 # Hello-World
-A novice programmer
+I'm novice programmer
+I started learning programming two months ago...
+I was initially into craft.
